@@ -1,10 +1,8 @@
-- 👋 Hi, I’m krishnaramesh
-- 👀 Create a own Domestic level Network..!
-- 🌱 Programming logic...
-- 💞️ Automation Working and Autocorrection 
-- 📫 Graduate in Mechatronics engi...
-- 😄 sk..!
-- ⚡ Open talk
+ Motivated and enthusiastic Mechatronics Engineering graduate, with hands-on experience in
+ Java Full Stack Developer, problem-solving, and application support. Seeking an entry-level
+ opportunity in Application Tech Support to leverage my technical skills in Java development
+ and backend application troubleshooting, while learning and growing in the field
+
 
 <!---
 skrishnaramesh/skrishnaramesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
